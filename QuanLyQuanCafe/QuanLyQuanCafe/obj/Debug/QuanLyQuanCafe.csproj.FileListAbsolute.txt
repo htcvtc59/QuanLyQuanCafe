@@ -1,0 +1,15 @@
+c:\users\macos\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+c:\users\macos\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+c:\users\macos\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+c:\users\macos\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.AccountProfile.resources
+c:\users\macos\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Admin.resources
+c:\users\macos\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Login.resources
+c:\users\macos\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+c:\users\macos\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.TableManager.resources
+c:\users\macos\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+c:\users\macos\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+c:\users\macos\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+c:\users\macos\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\MacOS\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\RdlCompile.cache
+C:\Users\MacOS\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\RdlCompile.compiled
+C:\Users\MacOS\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
